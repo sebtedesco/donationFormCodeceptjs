@@ -35,12 +35,5 @@ Create Donation form by following steps in README.me of https://github.com/sebte
     ```
 5. Initialize CodeceptJS in current directory
 
-2. Go to `index.html` in Text Editor and open in browser
-
-## Technologies Used
-
-HTML5, CSS3, JavaScript (ES5), jQuery
-
-## Preview
-
-![Memory Match](preview.gif)
+GIF HERE SHOWING TERMINAL INIT STEPS
+![codeceptjsgif](preview.gif)
