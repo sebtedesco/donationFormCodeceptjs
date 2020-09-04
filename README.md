@@ -48,12 +48,12 @@ Create Donation form by following steps in README.me of https://github.com/sebte
     ```
 9. Load and run donation form project
 
- ```shell
- ./gradlew load
- ./gradlew run
- ```
+    ```shell
+    ./gradlew load
+    ./gradlew run
+    ```
 10. In separate Terminal window, navitage to CodeCeptJS_Tests directory and run the following command to run the test
 
- ```shell
- npx codeceptjs run donation_test.js --steps
- ```
+    ```shell
+    npx codeceptjs run donation_test.js --steps
+    ```
